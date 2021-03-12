@@ -1,0 +1,13 @@
+C:\Users\mattc\OneDrive\GRETA CDA\C#\Rover\Rover\bin\Debug\netcoreapp3.1\Rover.exe
+C:\Users\mattc\OneDrive\GRETA CDA\C#\Rover\Rover\bin\Debug\netcoreapp3.1\Rover.deps.json
+C:\Users\mattc\OneDrive\GRETA CDA\C#\Rover\Rover\bin\Debug\netcoreapp3.1\Rover.runtimeconfig.json
+C:\Users\mattc\OneDrive\GRETA CDA\C#\Rover\Rover\bin\Debug\netcoreapp3.1\Rover.runtimeconfig.dev.json
+C:\Users\mattc\OneDrive\GRETA CDA\C#\Rover\Rover\bin\Debug\netcoreapp3.1\Rover.dll
+C:\Users\mattc\OneDrive\GRETA CDA\C#\Rover\Rover\bin\Debug\netcoreapp3.1\Rover.pdb
+C:\Users\mattc\OneDrive\GRETA CDA\C#\Rover\Rover\obj\Debug\netcoreapp3.1\Rover.csprojAssemblyReference.cache
+C:\Users\mattc\OneDrive\GRETA CDA\C#\Rover\Rover\obj\Debug\netcoreapp3.1\Rover.AssemblyInfoInputs.cache
+C:\Users\mattc\OneDrive\GRETA CDA\C#\Rover\Rover\obj\Debug\netcoreapp3.1\Rover.AssemblyInfo.cs
+C:\Users\mattc\OneDrive\GRETA CDA\C#\Rover\Rover\obj\Debug\netcoreapp3.1\Rover.csproj.CoreCompileInputs.cache
+C:\Users\mattc\OneDrive\GRETA CDA\C#\Rover\Rover\obj\Debug\netcoreapp3.1\Rover.dll
+C:\Users\mattc\OneDrive\GRETA CDA\C#\Rover\Rover\obj\Debug\netcoreapp3.1\Rover.pdb
+C:\Users\mattc\OneDrive\GRETA CDA\C#\Rover\Rover\obj\Debug\netcoreapp3.1\Rover.genruntimeconfig.cache
